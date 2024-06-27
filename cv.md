@@ -1,14 +1,27 @@
-<!-- здесь должно быть фото -->  
-Roman Plis  
-Email: plisroman@gmail.com  
-Git Hub:  
-<!-- добавить контакты discord и rs school -->  
 
-
-
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)  
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)  
-Примеры кода  
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.  
-Образование (включая пройденные курсы и тренинги)  
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)  
+![Alt-текст](https://avatars.githubusercontent.com/u/165320065?s=400&u=ba7397022d094990063a4ab1bb5022985f19a573&v=4)
+# Roman Plis  
+## Frontend developer (student)  
+### Contact information:  
+* Email: plisroman@gmail.com  
+* [GitHub](https://github.com/romanplis)  
+* [Discord](https://discordapp.com/users/731065422744518678/)  
+### Information about me:  
+I want to change my life by learning programming. In the future I want to help other people change.
+### Education:  
+* L.N. Gumilyov Eurasian National University, Master's Degree in Civil Engineering
+* Belarusian National Technical University, Bachelor's Degree in Civil Engineering
+* Incheon National University, Research Internship
+### Skills:
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Git
+* Atlassian Jira
+### Experience:
+* BI Group, 1.5 year, Systems analyst
+### Languages:
+* Russian - Native
+* English - Intermediate
+* Kazakh - Elementary
