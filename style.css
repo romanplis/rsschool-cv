@@ -1,3 +1,31 @@
-body{
+body {
     background-color: antiquewhite;
+}
+
+#ava {
+    width: 200px;
+    height: 200px;
+}
+
+#logo_rs_school {
+    width: 100px;
+    height: auto;
+}
+
+#git_hub_logo {
+    width: 100px;
+    height: auto;
+}
+
+#tableContainer {
+	display: table;
+	border-spacing: 10px;
+}
+
+#tableRow {
+	display: table-row;
+}
+
+.cell {
+    display: table-cell;
 }
