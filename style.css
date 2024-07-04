@@ -1,10 +1,18 @@
 body {
-    background-color: antiquewhite;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,31,9,1) 35%, rgba(0,212,255,1) 100%);
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid aliceblue;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: sans-serif;
 }
 
 #ava {
     width: 200px;
     height: 200px;
+    border-radius: 10px;
 }
 
 #logo_rs_school {
@@ -28,4 +36,12 @@ body {
 
 .cell {
     display: table-cell;
+}
+
+a {
+    color: rgb(252, 208, 208); /* Цвет ссылок */
+}
+
+a:visited {
+    color: #dcd8fa; /* Цвет посещенных ссылок */
 }
